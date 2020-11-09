@@ -5,4 +5,5 @@ Dự án thiết kế Blog Gym
 09/11/2020: 
 - Tham khảo các theme
 - Chỉnh sử thiết kế giao diện:
-+a
+    + Liên kết các trang
+    + Bố cục giao diện
