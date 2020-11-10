@@ -5,7 +5,11 @@ Dự án thiết kế Blog Gym<br>
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.SqlServer
 - Microsoft.EntityFrameworkCore.Tools
-
+## Features
+- Trang giao diện dành cho khách
+- Tìm kiếm, thêm, sửa xóa các bài viết
+- Có thể giử yêu cầu đến quản lý
+- 
 
 09/11/2020: 
 - Tham khảo các theme
