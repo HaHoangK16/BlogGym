@@ -22,6 +22,34 @@ namespace WebApplication1.Controllers
         {
             return View();
         }
+        public IActionResult about()
+        {
+            return View();
+        }
+        public IActionResult pricing()
+        {
+            return View();
+        }
+        public IActionResult gallery()
+        {
+            return View();
+        }
+        public IActionResult elments()
+        {
+            return View();
+        }
+        public IActionResult blog()
+        {
+            return View();
+        }
+        public IActionResult contact()
+        {
+            return View();
+        }
+        public IActionResult login()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
