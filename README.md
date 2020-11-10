@@ -5,7 +5,7 @@ Dự án thiết kế Blog Gym<br>
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.SqlServer
 - Microsoft.EntityFrameworkCore.Tools
-## Features
+## Mô tả và chức năng
 - Trang giao diện dành cho khách
 - Tìm kiếm, thêm, sửa xóa các bài viết (chưa đầy đủ đang tìm thêm)
 - Có thể giử yêu cầu đến quản lý
