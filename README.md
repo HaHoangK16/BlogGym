@@ -16,6 +16,4 @@ Dự án thiết kế Blog Gym<br>
 - Chỉnh sử thiết kế giao diện:
     + Liên kết các trang
     + Bố cục giao diện
-
 10/11/2020:
--
