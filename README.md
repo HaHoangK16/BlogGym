@@ -2,8 +2,8 @@
 
 Dự án thiết kế Blog Gym<br>
 <h2><b>Install Packages</b></h2>
-- Microsoft.EntityFrameworkCore.Design
-- Microsoft.EntityFrameworkCore.SqlServer
+- Microsoft.EntityFrameworkCore.Design<br>
+- Microsoft.EntityFrameworkCore.SqlServer<br>
 - Microsoft.EntityFrameworkCore.Tools
 
 
