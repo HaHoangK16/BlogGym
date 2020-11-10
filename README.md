@@ -1,7 +1,7 @@
 # ASP.NET CORE PROJECT - WEBSITE BlogGym
 
 Dự án thiết kế Blog Gym<br>
-Install Packages
+<b>Install Packages<b>
 - Microsoft.EntityFrameworkCore.Design
 - Microsoft.EntityFrameworkCore.SqlServer
 - Microsoft.EntityFrameworkCore.Tools
