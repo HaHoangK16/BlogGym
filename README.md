@@ -17,3 +17,5 @@ Dự án thiết kế Blog Gym<br>
     + Liên kết các trang
     + Bố cục giao diện
 10/11/2020:
+- Chỉnh sửa view home và Layout
+- Thiết kế Database và Model
