@@ -11,11 +11,13 @@ Dự án thiết kế Blog Gym<br>
 - Có thể giử yêu cầu đến quản lý
 
 ## Tiến độ dự án:
+
 09/11/2020:
 - Tham khảo các theme
 - Chỉnh sử thiết kế giao diện:
     + Liên kết các trang
-    + Bố cục giao diện<br>
+    + Bố cục giao diện
+
 10/11/2020:
 - Chỉnh sửa view home và Layout
 - Thiết kế Database và Model
