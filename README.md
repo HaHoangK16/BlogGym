@@ -15,7 +15,7 @@ Dự án thiết kế Blog Gym<br>
 - Tham khảo các theme
 - Chỉnh sử thiết kế giao diện:
     + Liên kết các trang
-    + Bố cục giao diện
+    + Bố cục giao diện<br>
 10/11/2020:
 - Chỉnh sửa view home và Layout
 - Thiết kế Database và Model
