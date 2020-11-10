@@ -7,7 +7,7 @@ Dự án thiết kế Blog Gym<br>
 - Microsoft.EntityFrameworkCore.Tools
 ## Features
 - Trang giao diện dành cho khách
-- Tìm kiếm, thêm, sửa xóa các bài viết
+- Tìm kiếm, thêm, sửa xóa các bài viết (chưa đầy đủ đang tìm thêm)
 - Có thể giử yêu cầu đến quản lý
 - 
 
